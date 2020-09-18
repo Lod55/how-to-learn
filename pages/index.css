@@ -12,6 +12,7 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 /* Content */
+@import url(../blocks/content/__item/content__item.css);
 /* Description */
 @import url(../blocks/description/description.css);
 /* Two columns */
@@ -22,24 +23,27 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 /* Digits, section-title, section-subtitle, table */
 @import url(../blocks/digits/digits.css);
-@import url(../blocks/section-title*/section-title.css);
-@import url(../blocks/section-subtitle*/section-subtitle.css);
-@import url(../blocks/table*/table.css);
-@import url(../blocks/table*/__cell/table__cell.css);
-@import url(../blocks/table*/__heading/table__heading.css);
-@import url(../blocks/table*/__text/table__text.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_remove_offset/section-title_remove_offset.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/_remove_offset/section-subtitle_remove_offset.css);
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/_remove_offset/table_remove_offset.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__text/table__text.css);
 /* Feinman */
 @import url(../blocks/feinman/feinman.css);
 @import url(../blocks/feinman/__title/feinman__title.css);
 @import url(../blocks/feinman/__subtitle/feinman__subtitle.css);
 @import url(../blocks/feinman/__link/feinman__link.css);
 /* Kaufman and modification black theme */
-@import url(../blocks/kaufman*/kaufman.css);
-@import url(../blocks/kaufman*/__triangle/kaufman__triangle.css);
-@import url(../blocks/section-title*/_theme/section-title_theme_dark.css);
-@import url(../blocks/section-subtitle*/_theme/section-subtitle_theme_dark.css);
-@import url(../blocks/table*/_theme/table_theme_dark.css);
-@import url(../blocks/table*/__cell/_theme/table__cell_theme_dark.css);
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../blocks/section-title/_theme/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 /*  Footer  and  logo place footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
