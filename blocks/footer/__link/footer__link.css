@@ -1,10 +1,12 @@
 .footer__link {
   text-decoration: none;
   color: white;
+  transition: opacity .3s ease-in;
 }
 
 .footer__link:hover {
-  color: #2f80ed;
+  color: #f2f2f2;
+  opacity: .5;
 }
 
 .footer__link:last-of-type {

@@ -2,7 +2,7 @@
 @import url(../vendor/normalize.css);
 /* Page */
 @import url(../blocks/page/page.css);
-/* Header and Logo */
+/* Header and Logo, Rotation */
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
@@ -11,6 +11,7 @@
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
+@import url(../blocks/rotation/rotation.css);
 /* Content */
 @import url(../blocks/content/__item/content__item.css);
 /* Description */
@@ -24,11 +25,11 @@
 /* Digits, section-title, section-subtitle, table */
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-title/_remove_offset/section-title_remove_offset.css);
+@import url(../blocks/section-title/_remove/section-title_remove_offset.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/section-subtitle/_remove_offset/section-subtitle_remove_offset.css);
+@import url(../blocks/section-subtitle/_remove/section-subtitle_remove_offset.css);
 @import url(../blocks/table/table.css);
-@import url(../blocks/table/_remove_offset/table_remove_offset.css);
+@import url(../blocks/table/_remove/table_remove_offset.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
