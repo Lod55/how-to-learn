@@ -1,3 +1,4 @@
+/* файл готов */
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -6,6 +7,7 @@
 }
 
 /* Header */
+/* файл готов */
 .header {
   height: 100vh;
   min-height: 600px;
@@ -17,11 +19,13 @@
   overflow: hidden;
 }
 
+/* файл готов */
 .logo {
   width: 183px;
   height: 32px;
 }
 
+/* файл готов */
 .logo_place_header {
  position: absolute;
  z-index: 5;
@@ -29,6 +33,7 @@
  top: 30px;
 }
 
+/* файл готов */
 .header__title {
   width: 730px;
   align-items: center;
@@ -37,9 +42,9 @@
   font-size: 102px;
   font-weight: 700;
   z-index: 4;
-
 }
 
+/* файл готов */
 .header__subtitle {
   position: absolute;
   left: 64px;
@@ -52,11 +57,13 @@
   font-weight: normal;
 }
 
+/* файл готов */
 .header__link {
   text-decoration: none;
   color: #2f80ed;
 }
 
+/* файл готов */
 .header__main-illustration {
   width: 765px;
   height: 608px;
@@ -66,6 +73,7 @@
   z-index: 2;
 }
 
+/* файл готов */
 .header__square-pic {
   width: 568px;
   height: 568px;
@@ -77,19 +85,23 @@
 }
 
 /* content */
+/* файл готов */
 /* block description */
+/* файл готов */
 .description {
   margin: 100px 0;
   display: flex;
   justify-content: center;
 }
 
+/* файл готов */
 .two-columns {
   display: flex;
   justify-content: space-between;
   width: 80%;
 }
 
+/* файл готов */
 .two-columns__brief {
   margin: 0;
   width: 175px;
@@ -99,7 +111,8 @@
   color: #2f80ed;
   }
 
-.two-columns__main-text {
+/* файл готов */
+  .two-columns__main-text {
   margin: 0;
   list-style: none;
   min-width: 784px;
@@ -109,6 +122,7 @@
   font-weight: normal;
 }
 
+/* файл готов */
 .two-columns__paragraph {
   margin: 0 0 30px 0;
 }
@@ -117,11 +131,13 @@
   margin-bottom: 0;
 }
 
+/* файл готов */
 .two-columns__span-accent {
   font-weight: 700;
 }
 
 /* block digits */
+/* файл готов */
 .digits {
   margin: 100px auto;
   display: flex;
@@ -129,6 +145,8 @@
   align-items: center;
 }
 
+/*  В блоках нельзя использовать pasition  и margin нужны модификаторы */
+/* файл готов */
 .section-title{
   margin: 0 0 20px 0;
   line-height: 1.15;
@@ -138,6 +156,8 @@
   text-align: center;
 }
 
+/*  В блоках нельзя использовать pasition  и margin нужны модификаторы */
+/* файл готов */
 .section-subtitle {
   margin: 0;
   line-height: 34px;
@@ -147,6 +167,8 @@
   text-align: center;
   }
 
+/*  В блоках нельзя использовать pasition  и margin нужны модификаторы */
+/* файл готов */
 .table {
   padding: 0;
   margin: 0;
@@ -157,11 +179,13 @@
   flex-wrap: wrap;
 }
 
+/* файл готов */
 .table__cell {
   margin-top: 60px;
   width: 250px;
 }
 
+/* файл готов */
 .table__heading {
   margin: 0;
   line-height: 1.15;
@@ -169,6 +193,7 @@
   font-weight: 700;
 }
 
+/* файл готов */
 .table__text {
   margin: 20px 0 0 0;
   line-height: 1.2;
@@ -177,6 +202,7 @@
 }
 
 /* block feinman */
+/* файл готов */
 .feinman {
   min-height: 790px;
   padding-top: 100px;
@@ -190,6 +216,7 @@
   background-position: bottom 0 left 0;
 }
 
+/* файл готов */
 .feinman__title {
   margin: 0;
   width: 648px;
@@ -199,6 +226,7 @@
   text-align: center;
 }
 
+/* файл готов */
 .feinman__subtitle {
   margin: 70px 0 0 0;
   line-height: 51px;
@@ -206,6 +234,7 @@
   font-weight: normal;
 }
 
+/* файл готов */
 .feinman__link {
   position: absolute;
   top: 50%;
@@ -222,6 +251,8 @@
 }
 
 /* block kaufman */
+/*  В блоках нельзя использовать pasition  и margin нужны модификаторы */
+/* файл готов */
 .kaufman {
   margin: 0 auto;
   padding: 90px 0;
@@ -233,29 +264,34 @@
   overflow: hidden;
 }
 
+/* файл готов */
 .section-title_theme_dark {
   color: white;
   line-height: 69px;
   z-index: 4;
 }
 
+/* файл готов */
 .section-subtitle_theme_dark {
   color: white;
   z-index: 3;
 }
 
+/* файл готов */
 .table_theme_dark {
   color: white;
   z-index: 2;
 
 }
 
+/* файл готов */
 .table__cell_theme_dark {
   width: 200px;
   margin-right: 0;
   margin-top: 80px;
 }
 
+/* файл готов */
 .kaufman__triangle {
   width: 877px;
   height: 877px;
@@ -268,6 +304,7 @@
 }
 
 /*footer*/
+/* файл готов */
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
@@ -278,12 +315,14 @@
   color: white;
 }
 
+/* файл готов */
 .footer__columns {
   width: 90%;
   display: flex;
   justify-content: space-between;
 }
 
+/* файл готов */
 .footer__column {
   display: flex;
   flex-direction: column;
@@ -292,30 +331,36 @@
   font-weight: normal;
 }
 
+/* файл готов */
 .footer__column_content_copyright {
   flex-basis: 711px;
   justify-content: space-between;
 }
 
+/* файл готов */
 .footer__author { 
   line-height: 25px;
 }
 
+/* файл готов */
 .logo_place_footer {
   height: 35px;
 }
 
+/* файл готов */
 .footer__column-heading {
   margin: 0;
   font-weight: 700;
 }
 
+/* файл готов */
 .footer__column-links {
   margin: 20px 0 16px;
   list-style: none;
   padding: 0;
 }
 
+/* файл готов */
 .footer__link {
   text-decoration: none;
   color: white;
@@ -329,6 +374,7 @@
   margin-bottom: 0;
 }
 
+/* файл готов */
 .footer__social-icon {
   margin-right: 10px;
   width: 16px;

@@ -1,0 +1,12 @@
+.footer__link {
+  text-decoration: none;
+  color: white;
+}
+
+.footer__link:hover {
+  color: #2f80ed;
+}
+
+.footer__link:last-of-type {
+  margin-bottom: 0;
+}
