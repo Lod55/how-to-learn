@@ -22,6 +22,8 @@
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
+/* Techniques */
+@import url(../blocks/techniques/techniques.css);
 /* Digits, section-title, section-subtitle, table */
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-title/section-title.css);
