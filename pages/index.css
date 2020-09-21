@@ -13,7 +13,7 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/rotation/rotation.css);
 /* Content */
-@import url(../blocks/content/__item/content__item.css);
+@import url(../blocks/content/__item/_indent/content__item_indent_up.css);
 /* Description */
 @import url(../blocks/description/description.css);
 /* Two columns */
@@ -36,6 +36,18 @@
 @import url(../blocks/video/__iframes/video__iframes.css);
 /* Oakley */
 @import url(../blocks/oakley/oakley.css);
+/* Khan */
+@import url(../blocks/khan/khan.css);
+@import url(../blocks/khan/__container/khan__container.css);
+@import url(../blocks/khan/__author/khan__author.css);
+@import url(../blocks/khan/__title/khan__title.css);
+@import url(../blocks/khan/__citation/khan__citation.css);
+@import url(../blocks/khan/__quote/khan__quote.css);
+@import url(../blocks/khan/__quote-author/khan__quote-author.css);
+@import url(../blocks/khan/__quote-author-subline/khan__quote-author-subline.css);
+@import url(../blocks/khan/__book-container/khan__book-container.css);
+@import url(../blocks/khan/__book-pic/khan__book-pic.css);
+@import url(../blocks/khan/__buy-link/khan__buy-link.css);
 /* Digits, section-title, section-subtitle, table */
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/section-title/section-title.css);
@@ -59,6 +71,10 @@
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
+/* Resources */
+@import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
 /*  Footer  and  logo place footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
