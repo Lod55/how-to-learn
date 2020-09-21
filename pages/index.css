@@ -12,8 +12,6 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/rotation/rotation.css);
-/* Content */
-@import url(../blocks/content/__item/_indent/content__item_indent_up.css);
 /* Description */
 @import url(../blocks/description/description.css);
 /* Two columns */
@@ -24,19 +22,14 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 /* Section-title, Section-subtitle, Table */
 @import url(../blocks/section-title/section-title.css);
-@import url(../blocks/section-title/_remove/section-title_remove_offset.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/section-subtitle/_remove/section-subtitle_remove_offset.css);
 @import url(../blocks/table/table.css);
-@import url(../blocks/table/_remove/table_remove_offset.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 /* Techniques */
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/cards/cards.css);
-@import url(../blocks/cards/_remove/cards_remove_offset.css);
-@import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
@@ -75,6 +68,7 @@
 /* Resources */
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__link-logo/resources__link-logo.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 /*  Footer  and  logo place footer */
 @import url(../blocks/footer/footer.css);

@@ -1,0 +1,7 @@
+.resources__link-logo {
+  transition: opacity .3s ease-in;
+}
+
+.resources__link-logo:hover {
+  opacity: .3;
+}
