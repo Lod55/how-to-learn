@@ -1,3 +1,4 @@
 .logo_place_footer {
-  height: 35px;
+  max-height: 35px;
+  height: 100%;
 }
